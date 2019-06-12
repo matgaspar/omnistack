@@ -2,7 +2,14 @@
 # uploads/**/resized/**
 !/uploads
 /uploads/*
-!/uploads/resized
+!/uploads/resized/*.png
+!/uploads/resized/*.jpeg
+!/uploads/resized/*.jpg
+!/uploads/resized/*.gif
+!/uploads/resized/*.bmp
+!/uploads/resized/*.svg
+!/uploads/resized/*.ico
+!/uploads/resized/*.psd
 
 # Logs
 logs
