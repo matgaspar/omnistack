@@ -5,7 +5,8 @@
   "author": "Matheus Gaspar <matheus@web7online.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "git.log": "git log"
   },
   "dependencies": {
     "cors": "^2.8.5",
