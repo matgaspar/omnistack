@@ -103,7 +103,6 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-*.lock
 # Compiled source #
 ###################
 *.com
