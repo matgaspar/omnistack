@@ -11,6 +11,9 @@
 !/uploads/resized/*.ico
 !/uploads/resized/*.psd
 
+# .gitconfig
+.gitconfig
+
 # Logs
 logs
 *.log
